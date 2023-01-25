@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-pern",
+  "version": "1.0.0",
+  "description": "Portfolio personal hecho a modo de práctica con el stack PERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Pelech",
+  "license": "ISC"
+}
